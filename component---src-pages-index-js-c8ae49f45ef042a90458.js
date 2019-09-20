@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{207:function(e,a,t){"use strict";t.r(a);var l=t(0),n=t.n(l),c=t(205),r=t(204);a.default=function(){return n.a.createElement(c.a,null,n.a.createElement(r.a,{title:"Home"}),n.a.createElement("div",{className:"container-fluid"},n.a.createElement("div",{className:"row"},n.a.createElement("div",{className:"col-sm"},n.a.createElement("h2",null,"Welcome to Felsenthal Health Services.")))))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-c8ae49f45ef042a90458.js.map
